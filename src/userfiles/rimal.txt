@@ -1,0 +1,20 @@
+Welcome rimal!
+Your registration was successful.
+Username: rimal
+Income added: 20000.0
+Expense added: 2000.0
+Added 1000.0 to goal: car
+Current Amount: 1000.0 / 2000000.0
+Goal Completion: 0.05%
+
+Added 1000.0 to goal: home
+Current Amount: 1000.0 / 5000000.0
+Goal Completion: 0.02%
+
+Income added: 10000.0
+Income added: 10000.0
+Expense added: 8000.0
+Added 1000.0 to goal: bike
+Current Amount: 1000.0 / 100000.0
+Goal Completion: 1.00%
+
